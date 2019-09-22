@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://vivianealves.github.io/worlds-collide">
+		<meta http-equiv="refresh" content="0;url=http://vivianealves.github.io/worlds_collide">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://vivianealves.github.io/worlds-collide";
+			window.location = "http://vivianealves.github.io/worlds_collide";
 		</script>
 
-		<p>You are being redirected to <a href="http://vivianealves.github.io/worlds-collide">http://vivianealves.github.io/worlds-collide</a></p>
+		<p>You are being redirected to <a href="http://vivianealves.github.io/worlds_collide">http://vivianealves.github.io/worlds_collide</a></p>
 	</body>
 </html>

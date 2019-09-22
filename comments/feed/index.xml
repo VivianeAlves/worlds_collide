@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre Worlds Collide	</title>
-	<atom:link href="http://vivianealves.github.io/worlds-collide/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://vivianealves.github.io/worlds-collide</link>
+	<atom:link href="http://vivianealves.github.io/worlds_collide/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://vivianealves.github.io/worlds_collide</link>
 	<description>Redesign do site worlds collide tour - Within Temptation e Evanescence</description>
 	<lastBuildDate>Sun, 22 Sep 2019 14:38:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,10 +20,10 @@
 			<item>
 				<title>
 				Comentário sobre Olá, mundo! por Um comentarista do WordPress				</title>
-				<link>http://vivianealves.github.io/worlds-collide/ola-mundo/#comment-1</link>
+				<link>http://vivianealves.github.io/worlds_collide/ola-mundo/#comment-1</link>
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Sat, 21 Sep 2019 18:16:02 +0000</pubDate>
-		<guid isPermaLink="false">http://vivianealves.github.io/worlds-collide/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://vivianealves.github.io/worlds_collide/?p=1#comment-1</guid>
 					<description><![CDATA[Olá, isso é um comentário.
 Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
 Avatares de comentaristas vêm a partir do &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
